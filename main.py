@@ -3,7 +3,7 @@ import requests
 from PyPDF2 import PdfReader
 
 #Constants
-API_KEY = "a7949fecb85043bcb1f389162b7a9868"
+API_KEY = "YOUR_API_KEY"
 ENDPOINT = "https://api.voicerss.org/?"
 LANGUAGE = "tr-tr"
 VOICE = "MP3"
