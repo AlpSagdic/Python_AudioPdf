@@ -3,6 +3,7 @@
 --EN--
 
 *This project was written using an api that lets you listen to pdf files or regular text.
+
 *The site used=https://www.voicerss.org
 
 *This is a project I wrote to improve myself.
@@ -14,6 +15,7 @@
 --TR--
 
 *Bu proje, pdf dosyalarını veya normal metinleri dinlemenizi sağlayan bir api kullanılarak yazılmıştır.
+
 *Kullanılan site=https://www.voicerss.org
 
 *Kendimi geliştirmek için yazdığım bir projedir.
